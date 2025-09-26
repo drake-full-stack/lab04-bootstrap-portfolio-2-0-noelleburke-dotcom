@@ -13,7 +13,7 @@ body {
 
 /* Navigation */
 nav {
-    background-color: #9f28ea;
+    background-color: #a028ea65;
     padding: 1rem 0;
 }
 
@@ -31,7 +31,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #9f28ea;
+    background-color: #a028ea65;
     border-radius: 4px;
 }
 
@@ -106,7 +106,7 @@ h2 {
 
 /* Footer */
 footer {
-    background-color: #9f28ea;
+    background-color: #a028ea65;
     color: white;
     text-align: center;
     padding: 2rem;
